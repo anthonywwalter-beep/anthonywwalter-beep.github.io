@@ -21,11 +21,9 @@
 title: Anthony Walter
 email: anthonywwalter@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Anthony Walter. Software developer, tech enthusiast,
-  and lifelong learner sharing thoughts and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: your_twitter
+linkedin_username: anthony-walter-436754309
 github_username: anthonywwalter-beep
 
 # Build settings
