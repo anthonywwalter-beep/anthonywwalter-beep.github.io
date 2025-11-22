@@ -5,17 +5,16 @@ title: Home
 
 # Welcome to My Website
 
-Hi, I'm Anthony Walter! Welcome to my personal website.
+Hi, I’m Anthony Walter! Welcome to my personal website.
 
 ## About Me
 
-I'm a passionate software developer who enjoys building things and solving problems. This is my corner of the internet where I share my thoughts, projects, and experiences.
+I’m a passionate software developer who enjoys building a variety of different projects ranging from small games to simple web applications.
 
 ## What You'll Find Here
 
 - **About**: Learn more about my background and interests
 - **Projects**: Check out some of the things I've built
-- **Blog**: Read my thoughts on technology and development
 
 ## Get In Touch
 
